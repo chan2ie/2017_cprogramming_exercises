@@ -39,7 +39,7 @@ int main(){
 		scanf("%d", &num2);
 		result = min(&num1, &num2, option);
 		real = result;
-		printf("minimum value is %d\n",*real);
+		printf("\n\nminimum value is %d\n",*real);
 	}
 	else{
 		float num1, num2;

@@ -16,7 +16,7 @@ int main(){
 
 	function(&str1, &str2);
 
-	printf("After swapping\n\nstr1 = %s\nstr2 = %s\n",str1,str2);
+	printf("\n\nAfter swapping\n\nstr1 = %s\nstr2 = %s\n",str1,str2);
 
 	return 0;
 }

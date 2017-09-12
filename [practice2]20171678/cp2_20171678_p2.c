@@ -33,7 +33,7 @@ int main(){
 	}
 
 
-	printf("GCD of %d and %d is %d\nLCM of %d and %d is %d\n",n1,n2,gcd,n1,n2,lcm);
+	printf("\n\nGCD of %d and %d is %d\nLCM of %d and %d is %d\n",n1,n2,gcd,n1,n2,lcm);
 
 	return 0;
 }
