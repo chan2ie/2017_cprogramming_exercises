@@ -26,12 +26,12 @@ int main(){
 	scanf("%d",&n2);
 
 	if (n2 > n1){
-		gcd = n1;
-		n1 = n2;
-		n2 = gcd;
+		calGcdLcm(n2, n1, &gcd, &lcm);
+	}
+	else{
+		calGcdLcm(n1, n2, &gcd, &lcm);
 	}
 
-	calGcdLcm(n1, n2, &gcd, &lcm);
 
 	printf("GCD of %d and %d is %d\nLCM of %d and %d is %d\n",n1,n2,gcd,n1,n2,lcm);
 
