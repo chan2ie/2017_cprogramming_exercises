@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 void sort(int arr[10][10], int N){
-	for(int count1 = 0; count1 < 25; count1++){
-		for(int count = 0; count < 24; count++){
+	for(int count1 = 0; count1 < N*N; count1++){
+		for(int count = 0; count < N*N - 1; count++){
 			if((*(*(arr + (count / N)) + (count % N))) > *(*(arr + ((count + 1) / N)) + ((count + 1) % N))){
 				int temp;
 				temp = *(*(arr + (count / N)) + (count % N));

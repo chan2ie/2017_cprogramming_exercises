@@ -3,8 +3,8 @@
 void multiply(int a[10][10], int b[10][10], int result[10][10], int n, int m, int k){
 	for(int i = 0; i < n; i++){
 		for(int j = 0; j < k; j++){
-			for(int k = 0; k < m; k++){
-				*(*(result + i) + j) += (*(*(a + i) + k) * *(*(b + k) + j));
+			for(int l = 0; l < m; l++){
+				*(*(result + i) + j) += (*(*(a + i) + l) * *(*(b + l) + j));
 			}
 		}
 	}
