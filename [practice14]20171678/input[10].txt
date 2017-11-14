@@ -1,0 +1,27 @@
+26
+20121053 / Natalie Lewis / Male / 30.5 / 65.9 / 69.6
+20131918 / Chloe Christian / Male / 54.1 / 43.4 / 35.4
+20131317 / Emolys Evans / Male / 31.6 / 20.4 / 26.3
+20121329 / Sophia Allen / Male / 63.5 / 37.9 / 56.8
+20131787 / Robert Melton / Female / 44.1 / 54.2 / 32.7
+20131161 / Siaomos Barton / Male / 92.2 / 15.4 / 33.7
+20111559 / Sebastian Henderson / Female / 55.1 / 38.2 / 0.9
+20131185 / Richard Cerney / Male / 63.6 / 98.6 / 97.0
+20131754 / Elizabeth Calvin / Female / 7.4 / 0.0 / 26.4
+20101696 / Madison Frost / Male / 49.3 / 64.3 / 73.3
+20091758 / Emily Stevgenson / Female / 51.6 / 89.2 / 34.0
+20131776 / Navy Taylor / Male / 8.6 / 36.4 / 52.3
+20131403 / Vincent Newton / Male / 38.7 / 79.0 / 24.0
+20091762 / Owen Ingram / Male / 40.6 / 85.1 / 91.1
+20131442 / Olyen Massey / Male / 72.1 / 62.0 / 97.3
+20141039 / Emma Thomas / Male / 30.1 / 25.1 / 27.3
+20131341 / Peter Pitts / Female / 47.9 / 71.8 / 74.9
+20131368 / Xygret Latimer / Male / 67.2 / 9.7 / 79.1
+20131372 / Michael Grahan / Male / 6.4 / 29.0 / 17.5
+20101445 / Mandon Austin / Male / 98.8 / 28.5 / 48.9
+20131176 / Violet Smith / Male / 4.8 / 93.9 / 3.9
+20101841 / Samuel Davis / Male / 95.6 / 54.2 / 31.8
+20131162 / Sam Mackey / Male / 83.6 / 26.1 / 97.5
+20131555 / Miguel Parr / Male / 77.2 / 88.1 / 99.5
+20131836 / Oscar Hamersley / Male / 67.7 / 43.4 / 91.7
+20141582 / MeanSon King / Female / 97.2 / 88.3 / 100.0
