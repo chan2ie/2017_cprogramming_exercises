@@ -1,0 +1,6 @@
+5
+sogang 010-1234-1234 male student
+Leo 019-1233-2346 male cat
+computer 030-2342-3453 female programmer
+minzi 010-2343-5346 female student
+minus 030-2352-2356 female professor
